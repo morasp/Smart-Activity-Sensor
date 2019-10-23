@@ -4,6 +4,7 @@ Project for IoT DHBW Winter Term 2019
 ## Developers:
 - Marina Stumpp
 - Moritz Speidel (@morasp)
+- Bahos Kaky (@bahoskaky)
 
 
 
