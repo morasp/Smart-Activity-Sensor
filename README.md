@@ -1,3 +1,14 @@
+# Smart activity sensor
+Project for IoT DHBW Winter Term 2019
+
+## Developers:
+- Marina Stumpp
+- Moritz Speidel (@morasp)
+
+
+
+------------------------------
+
 # IoT DHBW Winter Term 2019
 This is the parent repository of the IoT lecture at DHBW Stuttgart in the winter term 2019.
 
