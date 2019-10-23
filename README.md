@@ -17,8 +17,10 @@ App, UI: http://www.IFTTT.com
 
 Blog: http://www.hackster.io
 
-## Android Sensing Framework
+## Useful other Repos:
 https://github.com/MrDio/IoT-Prototyping-Framework
+
+https://github.com/MrDio/Smartphone-Sensing-Framework
 
 ## Ein paar Beispielprojekte aus anderen Vorlesungen:
 https://www.hackster.io/typ/typ-track-your-parkinglot-060225
