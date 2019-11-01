@@ -1,0 +1,3 @@
+[submodule "sam-cloud"]
+	path = sam-cloud
+	url = https://github.com/morasp/sam-cloud.git
