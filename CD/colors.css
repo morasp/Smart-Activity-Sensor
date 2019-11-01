@@ -1,0 +1,22 @@
+.SAM-4-1-rgba { background-color: rgba(var(--accent-blue), 1); }
+.SAM-4-2-rgba { background-color: rgba(var(--accent-yellow),1); }
+.SAM-4-3-rgba { background-color: rgba(var(--accent-red),1.0); }
+.SAM-4-4-rgba { background-color: rgba(var(--accent-purple),1.0) }
+.SAM-4-5-rgba { background-color: rgba(var(--accent-green),1.0) }
+
+/*Red, Green, Blue*/
+:root{
+    --accent-blue: 52, 152, 219;
+    --accent-yellow: 241, 196, 15;
+    --accent-red: 192, 57, 43;
+    --accent-purple: 142, 68, 173;
+    --accent-green: 46, 204, 113;
+}
+
+.color{
+    width: 20vw;
+    height:200px;
+}
+.color-container{
+    display: flex;
+}

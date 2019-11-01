@@ -1,17 +1,10 @@
-/* Color Theme Swatches in Hex */
-.SAM-4-1-hex { color: #5BA5FF; }
-.SAM-4-2-hex { color: #F5E865; }
-.SAM-4-3-hex { color: #FF836E; }
-.SAM-4-4-hex { color: #B966F5; }
-.SAM-4-5-hex { color: #4BFF9C; }
-
-/* Color Theme Swatches in RGBA */
 .SAM-4-1-rgba { background-color: rgba(var(--accent-blue), 1); }
 .SAM-4-2-rgba { background-color: rgba(var(--accent-yellow),1); }
 .SAM-4-3-rgba { background-color: rgba(var(--accent-red),1.0); }
 .SAM-4-4-rgba { background-color: rgba(var(--accent-purple),1.0) }
 .SAM-4-5-rgba { background-color: rgba(var(--accent-green),1.0) }
 
+/*Red, Green, Blue*/
 :root{
     --accent-blue: 52, 152, 219;
     --accent-yellow: 241, 196, 15;
