@@ -10,3 +10,6 @@
 [submodule "SAM-Action-backend"]
 	path = SAM-Action-backend
 	url = git@github.com:morasp/SAM-Action-backend.git
+[submodule "sam-kb"]
+	path = sam-kb
+	url = git@github.com:morasp/sam-kb.git
