@@ -7,3 +7,6 @@
 [submodule "app"]
 	path = app
 	url = https://github.com/MarinaStumpp/SAM_APP.git
+[submodule "SAM-Action-backend"]
+	path = SAM-Action-backend
+	url = git@github.com:morasp/SAM-Action-backend.git
